@@ -1,4 +1,5 @@
-
+pom.properties
+manifest.mf
 .metadata
 bin/
 tmp/
